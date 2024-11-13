@@ -1,0 +1,9 @@
+.idea
+__pycache__
+build
+dist
+app.py
+FamillyStoned.spec
+geckodriver.log
+graph_api.py
+send_api.py

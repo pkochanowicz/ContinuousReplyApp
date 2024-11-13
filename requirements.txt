@@ -1,0 +1,5 @@
+facebook_sdk
+Flask
+openai
+requests
+playwright
